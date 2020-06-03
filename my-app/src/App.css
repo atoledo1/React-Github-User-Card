@@ -1,0 +1,11 @@
+.user {
+  border: 5px solid darkslateblue;
+  margin-bottom: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(blue, darkslategrey, dodgerblue);
+  color: whitesmoke;
+  width: 500px;
+}
